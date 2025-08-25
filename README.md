@@ -1,6 +1,7 @@
 # 🌦️ Weather Dashboard (Power BI)
 
 📌 Description
+
 This project is an interactive Weather Dashboard built using Power BI.
 It provides insights into weather data, including temperature trends, humidity levels, wind speed variations, and other key environmental factors.
 The dashboard enables users to explore and analyze weather conditions in a visually intuitive format.
